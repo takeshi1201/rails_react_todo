@@ -54,7 +54,7 @@ function App() {
             <Link to="/todos">Todos</Link>
           </NavItem>
           <NavItem>
-            <Link to="/todos/new">新規登録</Link>
+            <Link to="/todos/new">NewTodo</Link>
           </NavItem>
         </NavItems>
       </Nabver>
